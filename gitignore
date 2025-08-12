@@ -1,0 +1,6 @@
+*.png
+*.psd
+*.jpeg
+*.jpg
+tiles_tmp/
+.venv/
